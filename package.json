@@ -1,5 +1,5 @@
 {
-  "name": "twilio-openai-realtime",
+  "name": "twilio-openai-realtime-cloudflare-workers",
   "scripts": {
     "dev": "wrangler dev",
     "deploy": "wrangler deploy --minify",

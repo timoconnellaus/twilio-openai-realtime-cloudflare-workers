@@ -1,5 +1,5 @@
 #:schema node_modules/wrangler/config-schema.json
-name = "twilio-openai-realtime"
+name = "twilio-openai-realtime-cloudflare-workers"
 main = "src/index.ts"
 compatibility_flags = ["nodejs_compat"]
 compatibility_date = "2024-10-04"
